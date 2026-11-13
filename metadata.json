@@ -1,0 +1,6 @@
+{
+  "name": "Tender Request Builder",
+  "description": "Client-side tender request preparation tool for term contracts and ad-hoc works with local PDF and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
